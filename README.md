@@ -1,2 +1,1 @@
-# pixinsight
-Code for pixinsight scripts created by me
+# Sample do nothing script HelloWorld template
